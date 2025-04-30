@@ -1,0 +1,34 @@
+ #size {
+    border: 2px solid rgb(161, 158, 158);
+    width: 400px;
+    border-radius: 9px;
+    margin-left: 510PX;
+    margin-top: 130PX;
+    background-color: grey;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;;
+} 
+
+#display{
+    height: 34px; 
+    width: 220px;
+    margin-left: 80px ;
+    margin-top: 10px;
+    padding: 6px;
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button {
+   width: 95px;
+   height: 60px;
+   margin: 3px;
+   font-size: 20px;
+}
+#size .calculator {
+    margin-left: 133px;
+    color: white;
+}
